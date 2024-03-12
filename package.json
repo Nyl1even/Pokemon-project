@@ -16,7 +16,8 @@
     "react-bootstrap": "^2.10.1",
     "react-dom": "^18.0.0",
     "react-dropzone": "^14.2.3",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "sass": "^1.71.1"
   },
   "browserslist": {
     "production": [
